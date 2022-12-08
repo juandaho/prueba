@@ -1,0 +1,131 @@
+* {
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+
+}
+
+
+ul {
+
+    list-style-type: none;
+}
+
+a {
+    text-decoration: none;
+
+}
+
+header {
+
+    display: flex;
+    background-color: cornflowerblue;
+
+
+}
+
+.navegacion {
+
+    display: flex;
+    flex-wrap: wrap;
+    height: 100%;
+    justify-content: space-evenly;
+    align-items: center;
+
+}
+
+header div {
+
+    width: 50%;
+
+}
+
+nav {
+
+    width: 60%;
+
+}
+
+header div img {
+
+    width: 20%
+}
+
+.navegacion li {
+
+    padding: 20px;
+    font-family: 'Manrope', sans-serif;
+    text-decoration: none;
+
+
+}
+
+h1 {
+    font-family: 'Manrope', sans-serif;
+    text-align: center;
+}
+
+footer {
+
+    display: flex;
+    flex-direction: column;
+
+}
+
+footer ul {
+    display: flex;
+
+}
+
+footer div {
+    width: 100%;
+
+
+}
+
+
+footer div p {
+    align-items: center;
+    font-family: 'Manrope', sans-serif;
+
+
+}
+
+.redes {
+
+    display: flex;
+    width: 100%;
+    align-items: center;
+    justify-content: space-around;
+}
+
+i {
+    font-size: 50px;
+
+}
+
+.texto_ppal {
+    font-family: 'Manrope', sans-serif;
+}
+
+form {
+    font-family: 'Manrope', sans-serif;
+}
+
+h2 {
+    font-family: 'Manrope', sans-serif;
+    text-align: center;
+}
+
+.servicios{
+    font-family: 'Manrope', sans-serif;
+    text-align: center;
+}
+
+.texto_redes
+{
+
+    font-family: 'Manrope', sans-serif;
+    font-style: italic;  
+
+}
